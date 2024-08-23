@@ -1,0 +1,1382 @@
+[
+  {
+    "title": "Summer Camp | Online | Maubuisson",
+    "slug": "/osc/2024/online-maubuisson",
+    "datetime": "2024-06-13T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Online Kwartfinale 3 ONK Poker 23/24",
+    "slug": "/onkp/2023-2024/kwartfinale-3",
+    "datetime": "2024-06-14T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Online Kwartfinale 4 ONK Poker 23/24",
+    "slug": "/onkp/2023-2024/kwartfinale-4",
+    "datetime": "2024-06-15T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Dubai",
+    "slug": "/osc/2024/online-dubai",
+    "datetime": "2024-06-16T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Rome",
+    "slug": "/osc/2024/online-rome",
+    "datetime": "2024-06-17T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Londen",
+    "slug": "/osc/2024/online-londen",
+    "datetime": "2024-06-18T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Bali",
+    "slug": "/osc/2024/online-bali",
+    "datetime": "2024-06-19T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Halve finale Middenwest-Nederland 23/24",
+    "slug": "/onkp/2023-2024/halve-finale-middenwest-nederland",
+    "datetime": "2024-06-19T19:30",
+    "location": {
+      "lat": 51.90383509999999,
+      "lon": 4.349464
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Hanoi",
+    "slug": "/osc/2024/online-hanoi",
+    "datetime": "2024-06-20T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Halve finale Middenoost-Nederland 23/24",
+    "slug": "/onkp/2023-2024/halve-finale-middenoost-nederland",
+    "datetime": "2024-06-20T19:30",
+    "location": {
+      "lat": 51.9321697,
+      "lon": 6.0768287
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Andalusië",
+    "slug": "/osc/2024/online-andalusië",
+    "datetime": "2024-06-22T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Halve finale Noordwest-Nederland 23/24",
+    "slug": "/onkp/2023-2024/halve-finale-noordwest-nederland",
+    "datetime": "2024-06-22T19:30",
+    "location": {
+      "lat": 52.66120009999999,
+      "lon": 5.0893331
+    },
+    "live": true
+  },
+  {
+    "title": "Halve finale Noordoost-Nederland 23/24",
+    "slug": "/onkp/2023-2024/halve-finale-noordoost-nederland",
+    "datetime": "2024-06-23T14:00",
+    "location": {
+      "lat": 53.22626930000001,
+      "lon": 6.6023427
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Parijs",
+    "slug": "/osc/2024/online-parijs",
+    "datetime": "2024-06-23T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Sevilla",
+    "slug": "/osc/2024/online-sevilla",
+    "datetime": "2024-06-24T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Live | Groningen",
+    "slug": "/osc/2024/live-groningen",
+    "datetime": "2024-06-24T19:30",
+    "location": {
+      "lat": 53.22626930000001,
+      "lon": 6.6023427
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | New York",
+    "slug": "/osc/2024/online-new-york",
+    "datetime": "2024-06-25T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Live | Zwolle",
+    "slug": "/osc/2024/live-zwolle",
+    "datetime": "2024-06-26T19:00",
+    "location": {
+      "lat": 52.5067975,
+      "lon": 6.099039700000001
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Istanbul",
+    "slug": "/osc/2024/online-istanbul",
+    "datetime": "2024-06-27T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Napels",
+    "slug": "/osc/2024/online-napels",
+    "datetime": "2024-06-28T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Halve finale Zuidwest-Nederland 23/24",
+    "slug": "/onkp/2023-2024/halve-finale-zuidwest-nederland",
+    "datetime": "2024-06-28T19:30",
+    "location": {
+      "lat": 51.5797199,
+      "lon": 4.5884585
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Ljubljana",
+    "slug": "/osc/2024/online-ljubljana",
+    "datetime": "2024-06-29T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Halve finale Zuidoost-Nederland 23/24",
+    "slug": "/onkp/2023-2024/halve-finale-zuidoost-nederland",
+    "datetime": "2024-06-30T14:30",
+    "location": {
+      "lat": 51.3694036,
+      "lon": 5.8651054
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Sint-Petersburg",
+    "slug": "/osc/2024/online-sint-petersburg",
+    "datetime": "2024-06-30T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Amsterdam",
+    "slug": "/osc/2024/online-amsterdam",
+    "datetime": "2024-07-01T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Live | Zwaag",
+    "slug": "/osc/2024/live-zwaag",
+    "datetime": "2024-07-02T19:30",
+    "location": {
+      "lat": 52.67158329999999,
+      "lon": 5.0927503
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Sofia",
+    "slug": "/osc/2024/online-sofia",
+    "datetime": "2024-07-03T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Valencia",
+    "slug": "/osc/2024/online-valencia",
+    "datetime": "2024-07-04T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Live | Lonneker",
+    "slug": "/osc/2024/live-lonneker",
+    "datetime": "2024-07-05T19:30",
+    "location": {
+      "lat": 52.2474336,
+      "lon": 6.9141533
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Willemstad",
+    "slug": "/osc/2024/live-willemstad",
+    "datetime": "2024-07-06T19:30",
+    "location": {
+      "lat": 51.6759782,
+      "lon": 4.4316297
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Cappadocië",
+    "slug": "/osc/2024/online-cappadocië",
+    "datetime": "2024-07-08T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Peloponnessos",
+    "slug": "/osc/2024/online-peloponnessos",
+    "datetime": "2024-07-09T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Venetië",
+    "slug": "/osc/2024/online-venetië",
+    "datetime": "2024-07-10T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Corsica",
+    "slug": "/osc/2024/online-corsica",
+    "datetime": "2024-07-11T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Kick off 24/25",
+    "slug": "/onkp/2024-2025/kick-off",
+    "datetime": "2024-07-12T19:00",
+    "location": {
+      "lat": 52.2322968,
+      "lon": 5.4845636
+    },
+    "live": true
+  },
+  {
+    "title": "Finale Dag 1A 23/24",
+    "slug": "/onkp/2023-2024/finale-dag-1a",
+    "datetime": "2024-07-13T11:00",
+    "location": {
+      "lat": 52.2322968,
+      "lon": 5.4845636
+    },
+    "live": true
+  },
+  {
+    "title": "Finale Dag 1B 23/24",
+    "slug": "/onkp/2023-2024/finale-dag-1b",
+    "datetime": "2024-07-13T19:30",
+    "location": {
+      "lat": 52.2322968,
+      "lon": 5.4845636
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Costa Rica",
+    "slug": "/osc/2024/online-costa-rica",
+    "datetime": "2024-07-15T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Lissabon",
+    "slug": "/osc/2024/online-lissabon",
+    "datetime": "2024-07-16T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Online | Amalfikust",
+    "slug": "/osc/2024/online-amalfikust",
+    "datetime": "2024-07-17T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Live | Ugchelen",
+    "slug": "/osc/2024/live-ugchelen",
+    "datetime": "2024-07-18T14:00",
+    "location": {
+      "lat": 52.1823134,
+      "lon": 5.9348909
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Online | Marrakech",
+    "slug": "/osc/2024/online-marrakech",
+    "datetime": "2024-07-18T19:00",
+    "location": {
+      "lat": 52.2666015,
+      "lon": 5.5784622
+    },
+    "live": false
+  },
+  {
+    "title": "Summer Camp | Live | Scherpenzeel",
+    "slug": "/osc/2024/live-scherpenzeel",
+    "datetime": "2024-07-19T19:30",
+    "location": {
+      "lat": 52.08235149999999,
+      "lon": 5.490098
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Leeuwarden",
+    "slug": "/osc/2024/live-leeuwarden",
+    "datetime": "2024-07-20T19:30",
+    "location": {
+      "lat": 53.2045391,
+      "lon": 5.813689
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Lopik",
+    "slug": "/osc/2024/live-lopik",
+    "datetime": "2024-07-21T14:00",
+    "location": {
+      "lat": 51.96693759999999,
+      "lon": 4.9015178
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Nijkerk",
+    "slug": "/osc/2024/live-nijkerk",
+    "datetime": "2024-07-26T19:30",
+    "location": {
+      "lat": 52.2269552,
+      "lon": 5.4749953
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Hengelo",
+    "slug": "/osc/2024/live-hengelo",
+    "datetime": "2024-07-27T19:30",
+    "location": {
+      "lat": 52.27131319999999,
+      "lon": 6.8195396
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Wervershoof",
+    "slug": "/osc/2024/live-wervershoof",
+    "datetime": "2024-08-03T19:30",
+    "location": {
+      "lat": 52.73222699999999,
+      "lon": 5.146752
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Zeewolde",
+    "slug": "/osc/2024/live-zeewolde",
+    "datetime": "2024-08-04T14:30",
+    "location": {
+      "lat": 52.3519156,
+      "lon": 5.497076600000001
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Mijdrecht",
+    "slug": "/osc/2024/live-mijdrecht",
+    "datetime": "2024-08-16T19:30",
+    "location": {
+      "lat": 52.2114347,
+      "lon": 4.8819914
+    },
+    "live": true
+  },
+  {
+    "title": "Summer Camp | Live | Heesch",
+    "slug": "/osc/2024/live-heesch",
+    "datetime": "2024-08-17T19:30",
+    "location": {
+      "lat": 51.73327250000001,
+      "lon": 5.519037
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Leerdam",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-leerdam",
+    "datetime": "2024-08-25T14:30",
+    "location": {
+      "lat": 51.8907639,
+      "lon": 5.0872424
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Heerhugowaard",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-heerhugowaard",
+    "datetime": "2024-08-29T19:30",
+    "location": {
+      "lat": 52.6628675,
+      "lon": 4.8282052
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Mijdrecht",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-mijdrecht",
+    "datetime": "2024-08-30T19:30",
+    "location": {
+      "lat": 52.2114347,
+      "lon": 4.8819914
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Ugchelen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-ugchelen",
+    "datetime": "2024-09-01T14:30",
+    "location": {
+      "lat": 52.1823134,
+      "lon": 5.9348909
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Zwaag",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-zwaag",
+    "datetime": "2024-09-06T19:30",
+    "location": {
+      "lat": 52.67158329999999,
+      "lon": 5.0927503
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Huissen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-huissen",
+    "datetime": "2024-09-09T19:30",
+    "location": {
+      "lat": 51.9349943,
+      "lon": 5.94077
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Ede",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-ede",
+    "datetime": "2024-09-13T19:30",
+    "location": {
+      "lat": 52.0429458,
+      "lon": 5.66894
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Franker",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-franker",
+    "datetime": "2024-09-14T19:30",
+    "location": {
+      "lat": 53.1862653,
+      "lon": 5.5383349
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Aijen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-aijen",
+    "datetime": "2024-09-15T14:30",
+    "location": {
+      "lat": 51.5886675,
+      "lon": 6.0622964
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Oldebroek",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-oldebroek",
+    "datetime": "2024-09-20T19:30",
+    "location": {
+      "lat": 52.4474799,
+      "lon": 5.8989265
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Boxmeer",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-boxmeer",
+    "datetime": "2024-09-21T19:30",
+    "location": {
+      "lat": 51.64683369999999,
+      "lon": 5.9522495
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Velden",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-velden",
+    "datetime": "2024-09-27T19:30",
+    "location": {
+      "lat": 51.41473209999999,
+      "lon": 6.1660167
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Fochteloo",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-fochteloo",
+    "datetime": "2024-09-28T19:30",
+    "location": {
+      "lat": 52.9930798,
+      "lon": 6.335047899999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Neerkant",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-neerkant",
+    "datetime": "2024-09-28T19:30",
+    "location": {
+      "lat": 51.3694036,
+      "lon": 5.8651054
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Sint Jansteen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-sint-jansteen",
+    "datetime": "2024-09-29T14:30",
+    "location": {
+      "lat": 51.26119749999999,
+      "lon": 4.0535803
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Hengelo",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-hengelo",
+    "datetime": "2024-10-05T19:30",
+    "location": {
+      "lat": 52.27131319999999,
+      "lon": 6.8195396
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Noordwijk",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-noordwijk",
+    "datetime": "2024-10-07T19:30",
+    "location": {
+      "lat": 52.2452387,
+      "lon": 4.4308122
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Meijel",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-meijel",
+    "datetime": "2024-10-10T19:30",
+    "location": {
+      "lat": 51.3460466,
+      "lon": 5.8824011
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Nieuw-Dordrecht",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-nieuw-dordrecht",
+    "datetime": "2024-10-11T19:30",
+    "location": {
+      "lat": 52.753719,
+      "lon": 6.96889
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Dinxperlo",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-dinxperlo",
+    "datetime": "2024-10-12T19:30",
+    "location": {
+      "lat": 51.8610626,
+      "lon": 6.4797068
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Barneveld",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-barneveld",
+    "datetime": "2024-10-13T14:30",
+    "location": {
+      "lat": 52.1457146,
+      "lon": 5.588474
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Rijswijk",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-rijswijk",
+    "datetime": "2024-10-14T19:30",
+    "location": {
+      "lat": 52.0382682,
+      "lon": 4.298784599999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Terneuzen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-terneuzen",
+    "datetime": "2024-10-18T19:30",
+    "location": {
+      "lat": 51.3143845,
+      "lon": 3.8391133
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Leiden",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-leiden",
+    "datetime": "2024-10-20T15:00",
+    "location": {
+      "lat": 52.1670032,
+      "lon": 4.5148496
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Budel",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-budel",
+    "datetime": "2024-10-25T19:30",
+    "location": {
+      "lat": 51.2744645,
+      "lon": 5.5764974
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Zwolle",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-zwolle",
+    "datetime": "2024-10-26T19:30",
+    "location": {
+      "lat": 52.5067975,
+      "lon": 6.099039700000001
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Markelo",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-markelo",
+    "datetime": "2024-10-27T14:30",
+    "location": {
+      "lat": 52.2357411,
+      "lon": 6.4944506
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Beerzeveld",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-beerzeveld",
+    "datetime": "2024-11-01T19:30",
+    "location": {
+      "lat": 52.4954034,
+      "lon": 6.573469999999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Haren",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-haren",
+    "datetime": "2024-11-02T19:30",
+    "location": {
+      "lat": 53.1721833,
+      "lon": 6.6181576
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Maarssen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-maarssen",
+    "datetime": "2024-11-03T14:30",
+    "location": {
+      "lat": 52.126724,
+      "lon": 5.0337365
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Julianadorp",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-julianadorp",
+    "datetime": "2024-11-07T19:30",
+    "location": {
+      "lat": 52.8959164,
+      "lon": 4.7180578
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Aalten",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-aalten",
+    "datetime": "2024-11-08T19:30",
+    "location": {
+      "lat": 51.933668,
+      "lon": 6.5825574
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van De Bult",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-de-bult",
+    "datetime": "2024-11-10T19:30",
+    "location": {
+      "lat": 52.8178405,
+      "lon": 6.117242999999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Venhuizen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-venhuizen",
+    "datetime": "2024-11-15T19:30",
+    "location": {
+      "lat": 52.6941624,
+      "lon": 4.8105595
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Den Haag",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-den-haag",
+    "datetime": "2024-11-17T14:30",
+    "location": {
+      "lat": 52.0367515,
+      "lon": 4.2583546
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Woubrugge",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-woubrugge",
+    "datetime": "2024-11-22T19:30",
+    "location": {
+      "lat": 52.1710752,
+      "lon": 4.6327074
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Wervershoof",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-wervershoof",
+    "datetime": "2024-11-23T19:30",
+    "location": {
+      "lat": 52.73222699999999,
+      "lon": 5.146752
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Lopik",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-lopik",
+    "datetime": "2024-11-24T14:30",
+    "location": {
+      "lat": 51.96693759999999,
+      "lon": 4.9015178
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Ospel",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-ospel",
+    "datetime": "2024-11-27T19:30",
+    "location": {
+      "lat": 51.29930909999999,
+      "lon": 5.7864871
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Broek in Waterland",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-broek-in-waterland",
+    "datetime": "2024-11-28T19:30",
+    "location": {
+      "lat": 52.437098,
+      "lon": 4.992927799999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Hoeven",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-hoeven",
+    "datetime": "2024-11-29T19:30",
+    "location": {
+      "lat": 51.5797199,
+      "lon": 4.5884585
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Hoorn",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-hoorn",
+    "datetime": "2024-11-30T15:00",
+    "location": {
+      "lat": 52.6523613,
+      "lon": 5.0723805
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Vlaardingen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-vlaardingen",
+    "datetime": "2024-12-11T19:30",
+    "location": {
+      "lat": 51.90383509999999,
+      "lon": 4.349464
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Dokkum",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-dokkum",
+    "datetime": "2025-01-05T14:30",
+    "location": {
+      "lat": 53.3262191,
+      "lon": 5.9957892
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Bergambacht",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-bergambacht",
+    "datetime": "2025-01-07T19:30",
+    "location": {
+      "lat": 51.9332962,
+      "lon": 4.7904211
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Roermond",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-roermond",
+    "datetime": "2025-01-10T19:30",
+    "location": {
+      "lat": 51.1991784,
+      "lon": 6.0125119
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Leeuwarden",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-leeuwarden",
+    "datetime": "2025-01-11T19:30",
+    "location": {
+      "lat": 53.2045391,
+      "lon": 5.813689
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Lonneker",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-lonneker",
+    "datetime": "2025-01-17T19:30",
+    "location": {
+      "lat": 52.2474336,
+      "lon": 6.9141533
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Katwijk",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-katwijk",
+    "datetime": "2025-01-18T19:30",
+    "location": {
+      "lat": 52.2045495,
+      "lon": 4.394740700000001
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Heesch",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-heesch",
+    "datetime": "2025-01-23T19:30",
+    "location": {
+      "lat": 51.73327250000001,
+      "lon": 5.519037
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Sint-Annaland",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-sint-annaland",
+    "datetime": "2025-01-26T14:30",
+    "location": {
+      "lat": 51.6020674,
+      "lon": 4.1050372
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Ossendrecht",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-ossendrecht",
+    "datetime": "2025-02-02T14:30",
+    "location": {
+      "lat": 51.3923126,
+      "lon": 4.3244445
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Ankeveen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-ankeveen",
+    "datetime": "2025-02-06T19:30",
+    "location": {
+      "lat": 52.263938,
+      "lon": 5.0977457
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Steenbergen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-steenbergen",
+    "datetime": "2025-02-08T19:30",
+    "location": {
+      "lat": 51.574887,
+      "lon": 4.328398
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Groningen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-groningen",
+    "datetime": "2025-02-09T14:30",
+    "location": {
+      "lat": 53.22626930000001,
+      "lon": 6.6023427
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Scherpenzeel",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-scherpenzeel",
+    "datetime": "2025-02-11T19:30",
+    "location": {
+      "lat": 52.08235149999999,
+      "lon": 5.490098
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Eindhoven",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-eindhoven",
+    "datetime": "2025-02-12T19:30",
+    "location": {
+      "lat": 51.4214587,
+      "lon": 5.4555051
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van De Lier",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-de-lier",
+    "datetime": "2025-02-13T19:30",
+    "location": {
+      "lat": 51.98102100000001,
+      "lon": 4.2440912
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Hattemerbroek",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-hattemerbroek",
+    "datetime": "2025-02-14T19:30",
+    "location": {
+      "lat": 52.4706999,
+      "lon": 6.022952099999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Heerenveen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-heerenveen",
+    "datetime": "2025-02-16T14:30",
+    "location": {
+      "lat": 52.93573319999999,
+      "lon": 5.9409557
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Elspeet",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-elspeet",
+    "datetime": "2025-02-19T19:30",
+    "location": {
+      "lat": 52.291521,
+      "lon": 5.7905181
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Paterswolde",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-peterswolde",
+    "datetime": "2025-02-21T19:30",
+    "location": {
+      "lat": 53.1613941,
+      "lon": 6.559265799999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Jirnsum",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-jirnsum",
+    "datetime": "2025-02-28T19:30",
+    "location": {
+      "lat": 53.0830733,
+      "lon": 5.7939875
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Valthermond",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-valthermond",
+    "datetime": "2025-03-07T19:30",
+    "location": {
+      "lat": 52.8792069,
+      "lon": 6.9560238
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Ermelo",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-ermelo",
+    "datetime": "2025-03-09T14:30",
+    "location": {
+      "lat": 52.3006083,
+      "lon": 5.6291286
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Den Hoorn",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-den-hoorn",
+    "datetime": "2025-03-14T19:30",
+    "location": {
+      "lat": 52.0004569,
+      "lon": 4.3314245
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Bergen op Zoom",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-bergen-op-zoom",
+    "datetime": "2025-03-15T19:30",
+    "location": {
+      "lat": 51.4940021,
+      "lon": 4.2835182
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Willemstad",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-willemstad",
+    "datetime": "2025-03-16T19:30",
+    "location": {
+      "lat": 51.6759782,
+      "lon": 4.4316297
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Etten-Leur",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-etten-leur",
+    "datetime": "2025-03-23T14:30",
+    "location": {
+      "lat": 51.5700412,
+      "lon": 4.6613755
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Oss",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-oss",
+    "datetime": "2025-03-29T19:30",
+    "location": {
+      "lat": 51.7542471,
+      "lon": 5.5290029
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Lewedorp",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-lewedorp",
+    "datetime": "2025-03-30T14:30",
+    "location": {
+      "lat": 51.493039,
+      "lon": 3.751398
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Oisterwijk",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-oisterwijk",
+    "datetime": "2025-04-02T19:30",
+    "location": {
+      "lat": 51.5754603,
+      "lon": 5.2305948
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Heerlen",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-heerlen",
+    "datetime": "2025-04-05T19:30",
+    "location": {
+      "lat": 50.89960440000001,
+      "lon": 5.9713257
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Didam",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-didam",
+    "datetime": "2025-04-11T19:30",
+    "location": {
+      "lat": 51.94188579999999,
+      "lon": 6.112643400000001
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Blokker",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-blokker",
+    "datetime": "2025-04-12T19:30",
+    "location": {
+      "lat": 52.66120009999999,
+      "lon": 5.0893331
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Dwingeloo",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-dwingeloo",
+    "datetime": "2025-04-13T14:30",
+    "location": {
+      "lat": 52.8283608,
+      "lon": 6.392369899999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Vroomshoop",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-vroomshoop",
+    "datetime": "2025-04-18T19:30",
+    "location": {
+      "lat": 52.458308,
+      "lon": 6.568461
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Afferden",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-afferden",
+    "datetime": "2025-04-19T18:30",
+    "location": {
+      "lat": 51.6337353,
+      "lon": 6.0132626
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Delfzijl",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-delfzijl",
+    "datetime": "2025-04-20T15:00",
+    "location": {
+      "lat": 51.64683369999999,
+      "lon": 5.9522495
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Enschede",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-enschede",
+    "datetime": "2025-04-25T19:30",
+    "location": {
+      "lat": 52.2392708,
+      "lon": 6.833193
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Ammerzoden",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-ammerzoden",
+    "datetime": "2025-04-27T14:30",
+    "location": {
+      "lat": 51.7487876,
+      "lon": 5.223958
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Egmond aan Zee",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-egmond-aan-zee",
+    "datetime": "2025-05-02T19:30",
+    "location": {
+      "lat": 52.62278200000001,
+      "lon": 4.6339996
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Borculo",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-borculo",
+    "datetime": "2025-05-10T19:30",
+    "location": {
+      "lat": 52.11374430000001,
+      "lon": 6.521434200000001
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Wemeldinge",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-wemeldinge",
+    "datetime": "2025-05-11T14:30",
+    "location": {
+      "lat": 51.51682570000001,
+      "lon": 3.9945649
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Zevenaar",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-zevenaar",
+    "datetime": "2025-05-16T19:30",
+    "location": {
+      "lat": 51.9321697,
+      "lon": 6.0768287
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Beusichem",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-breusichem",
+    "datetime": "2025-05-25T14:30",
+    "location": {
+      "lat": 51.9484977,
+      "lon": 5.281182299999999
+    },
+    "live": true
+  },
+  {
+    "title": "Pokerkampioenschap van Aalst",
+    "slug": "/onkp/2024-2025/pokerkampioenschap-van-aalst",
+    "datetime": "2025-05-30T19:00",
+    "location": {
+      "lat": 51.7764703,
+      "lon": 5.1286489
+    },
+    "live": true
+  }
+]

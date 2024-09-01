@@ -1,3 +1,4 @@
+// Improved code
 // Imports the events.json file.
 const events = require('./events.json');
 
